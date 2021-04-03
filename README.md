@@ -11,3 +11,5 @@ The car is avoiding obstacles through an optical sensor (this code was projected
 - **Folder "Script & Images/... ( except from Images )"** ==> you can find both complete script ( *.ino, wrote with Arduino* ) to control all the parts of the car, both the control of each singolar part of the car model ( more specifically the control of: servo accelerometers, optical sensor ); 
 
 *** 
+
+Update: Now you can find another folder **"Detecting : cars & pedestrian"** which contains some python code to implement artificial intelligence to both detect cars both pedestrians from a videocamera/video stream & so on.
